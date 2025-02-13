@@ -62,7 +62,7 @@ export default function Login() {
             </View>
           </View>
           <TouchableOpacity 
-            className="rounded-full bg-black py-4"
+            className="rounded-full bg-black py-4 mt-5"
             onPress={handleRegisterPress}
           >
             <Text className="text-white text-center font-latoBold text-label">
